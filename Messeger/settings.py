@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'channels',
     'channels_redis',
     'Chat',
+    "whitenoise.runserver_nostatic"
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
